@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		AAB3348028F2D41A006460F9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAB3347F28F2D41A006460F9 /* main.swift */; };
 		AAB3348728F2D430006460F9 /* Chageable.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAB3348628F2D430006460F9 /* Chageable.swift */; };
+		AAB3348D28F2D789006460F9 /* MacBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAB3348C28F2D789006460F9 /* MacBook.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		AAB3347C28F2D41A006460F9 /* test_POP */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = test_POP; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAB3347F28F2D41A006460F9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		AAB3348628F2D430006460F9 /* Chageable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chageable.swift; sourceTree = "<group>"; };
+		AAB3348C28F2D789006460F9 /* MacBook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MacBook.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				AAB3347F28F2D41A006460F9 /* main.swift */,
 				AAB3348628F2D430006460F9 /* Chageable.swift */,
+				AAB3348C28F2D789006460F9 /* MacBook.swift */,
 			);
 			path = test_POP;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AAB3348728F2D430006460F9 /* Chageable.swift in Sources */,
+				AAB3348D28F2D789006460F9 /* MacBook.swift in Sources */,
 				AAB3348028F2D41A006460F9 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
